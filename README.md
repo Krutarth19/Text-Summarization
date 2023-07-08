@@ -21,7 +21,7 @@ Clone the repository: git clone https://github.com/Krutarth19/Text-Summarization
 Navigate to the project directory: cd your-repository
 Install the dependencies: npm install
 
-# Rapid API : Article E xtractor and Summarizer
+# Rapid API : Article Extractor and Summarizer
 Link🔗 : https://rapidapi.com/restyler/api/article-extractor-and-summarizer
 
 # Configuration
