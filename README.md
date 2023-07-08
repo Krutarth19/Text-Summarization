@@ -4,6 +4,13 @@ Simplify your reading with summize,an open source article summarizer that transf
 Rapid API Article Extractor and Summarizer
 This project utilizes the Rapid API Article Extractor and Summarizer service to extract and summarize articles. It provides a user interface where users can enter a URL, and the application will retrieve the article from the provided URL, summarize it, and display the summary.
 
+# Deployment 🔗 :
+https://jazzy-taffy-bcec8d.netlify.app/
+
+![image](https://github.com/Krutarth19/Text-Summarization/assets/92313715/651a79bc-1b94-44b8-9f40-6e4b37467da2)
+![image](https://github.com/Krutarth19/Text-Summarization/assets/92313715/2a2d393b-7f2a-4d33-9388-368cfc0554ea)
+
+
 # Features
 Extract and summarize articles using the Rapid API Article Extractor and Summarizer service.
 Save and display a history of previously summarized articles.
